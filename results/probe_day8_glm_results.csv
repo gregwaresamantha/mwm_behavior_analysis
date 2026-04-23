@@ -1,0 +1,5 @@
+term,estimate,std_error,t_value,p_value,model,N
+Intercept,0.29600592775512713,0.03164118295697165,9.355084105346533,2.648335571941947e-09,"GLM: day8_SW_TOTAL ~ C(Genotype, Treatment(reference='APOE33HN')) + C(Sex, Treatment(reference='F'))",27
+"C(Genotype, Treatment(reference='APOE33HN'))[T.APOE22HN]",0.061623426555524705,0.04617051762197613,1.3346921310276438,0.19504017339244523,"GLM: day8_SW_TOTAL ~ C(Genotype, Treatment(reference='APOE33HN')) + C(Sex, Treatment(reference='F'))",27
+"C(Genotype, Treatment(reference='APOE33HN'))[T.APOE44HN]",0.024200347067219408,0.04369210486569757,0.5538837540925836,0.5850037407695924,"GLM: day8_SW_TOTAL ~ C(Genotype, Treatment(reference='APOE33HN')) + C(Sex, Treatment(reference='F'))",27
+"C(Sex, Treatment(reference='F'))[T.M]",-0.031199912521161766,0.038642751504101576,-0.8073936587525394,0.4277110992318957,"GLM: day8_SW_TOTAL ~ C(Genotype, Treatment(reference='APOE33HN')) + C(Sex, Treatment(reference='F'))",27

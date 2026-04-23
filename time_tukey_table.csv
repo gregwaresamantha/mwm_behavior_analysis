@@ -1,0 +1,4 @@
+group1,group2,meandiff,p-adj,lower,upper,reject
+Control,GLP1,-0.0334,0.0001,-0.0524,-0.0145,True
+Control,HFD,-0.0029,0.6848,-0.011,0.0053,False
+GLP1,HFD,0.0306,0.0007,0.0112,0.0499,True
